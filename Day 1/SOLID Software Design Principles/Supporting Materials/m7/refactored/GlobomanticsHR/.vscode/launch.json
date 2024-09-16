@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ApproveSLAMain",
+            "request": "launch",
+            "mainClass": "hr.main.ApproveSLAMain",
+            "projectName": "hr"
+        },
+        {
+            "type": "java",
+            "name": "CalculateEmployeeTaxesMain",
+            "request": "launch",
+            "mainClass": "hr.main.CalculateEmployeeTaxesMain",
+            "projectName": "hr"
+        },
+        {
+            "type": "java",
+            "name": "ExportPayslipMain",
+            "request": "launch",
+            "mainClass": "hr.main.ExportPayslipMain",
+            "projectName": "hr"
+        },
+        {
+            "type": "java",
+            "name": "NatHolidayEmployeeTimeOffMain",
+            "request": "launch",
+            "mainClass": "hr.main.NatHolidayEmployeeTimeOffMain",
+            "projectName": "hr"
+        },
+        {
+            "type": "java",
+            "name": "PayEmployeesMain",
+            "request": "launch",
+            "mainClass": "hr.main.PayEmployeesMain",
+            "projectName": "hr"
+        },
+        {
+            "type": "java",
+            "name": "SaveEmployeesMain",
+            "request": "launch",
+            "mainClass": "hr.main.SaveEmployeesMain",
+            "projectName": "hr"
+        }
+    ]
+}
